@@ -1,0 +1,27 @@
+
+# Build rezultati
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Log fajlovi
+*.log
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# Privremeni fajlovi
+*.cache
